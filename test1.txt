@@ -1,0 +1,9 @@
+This is test file 1. 
+
+list of casinos on the strip:
+MGM
+Bellagio
+Cosmo
+Caesars
+Paris
+
